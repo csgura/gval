@@ -1,3 +1,3 @@
-module github.com/PaesslerAG/gval
+module github.com/csgura/gval
 
 require github.com/PaesslerAG/jsonpath v0.1.0
